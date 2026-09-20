@@ -1,0 +1,6 @@
+{
+  "name": "Mona Beauty Blendz - Luxury Spa & Skincare",
+  "description": "Trang web giới thiệu dịch vụ Spa & Chăm sóc da cao cấp Mona Beauty Blendz với liệu trình chuyên sâu 25 năm kinh nghiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
